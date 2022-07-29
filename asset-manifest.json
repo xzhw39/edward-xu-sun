@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/edward-xu-sun/static/css/main.87acf28f.css",
+    "main.js": "/edward-xu-sun/static/js/main.edf29408.js",
+    "static/media/profilePic.jpg": "/edward-xu-sun/static/media/profilePic.638c4799c1befa0d56f2.jpg",
+    "index.html": "/edward-xu-sun/index.html",
+    "main.87acf28f.css.map": "/edward-xu-sun/static/css/main.87acf28f.css.map",
+    "main.edf29408.js.map": "/edward-xu-sun/static/js/main.edf29408.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87acf28f.css",
+    "static/js/main.edf29408.js"
+  ]
+}
