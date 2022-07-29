@@ -43,7 +43,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Link to Work
 
-[Deployed App]()
+[Deployed App](https://xzhw39.github.io/edward-xu-sun/)
 
 [GitHub](https://github.com/xzhw39/edward-xu-sun)
 
